@@ -24,8 +24,13 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 ### 📫 LeetCode & Contact
 
 - 🔗 LeetCode: [https://leetcode.com/u/Akshay_VS/](https://leetcode.com/u/Akshay_VS/)
-- ✉️ Email: **[akshaykailath2020@gmail.com](mailto:yourmail@example.com)**
-- 💬 LinkedIn / Twitter / Discord: add your links below
+- ✉️ Email: **[akshaykailath2020@gmail.com](mailto:akshaykailath2020@gmail.com)**
+- 💼 LinkedIn:
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
 
 ---
 
@@ -76,5 +81,3 @@ _(Add links to each repository below when you publish them.)_
 I'm open to collaboration on ML / data science projects, internships, and full‑stack applications that leverage machine learning. If you want to work together or have an idea, reach out!
 
 ---
-
-> _Tip:_ Replace the placeholders (YOUR_GITHUB_USERNAME, YOUR_LEETCODE_USERNAME, [yourmail@example.com](mailto:yourmail@example.com)) with your real details. Commit this `README.md` to a **public** repository named exactly the same as your GitHub username to make it appear on your profile.
