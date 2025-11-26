@@ -13,12 +13,12 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 ### 🔭 What I'm working on
 
 - Building an end‑to‑end ML pipeline for a real‑world project (data ingestion → training → deployment)
-- Improving my LeetCode problem solving and system design skills
+- Improving my problem solving and system design skills
 - Creating full‑stack projects that showcase model inference in web apps
 
 ### 🌱 Currently learning
 
-- Advanced ML topics: model explainability, MLOps, transformers
+- model explainability, MLOps, transformers
 - Scalable backend systems and cloud deployment
 
 ### 📫 LeetCode & Contact
@@ -63,16 +63,16 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 - **Nexus** — connecting people
   `🧾 Stack: React, next js, PostgreSQL, supabase ,Docker`
 
-_(Add links to each repository below when you publish them.)_
+_([Add links to each repository below when you publish them.](https://github.com/Alchemist-10/trenddit))_
 
 ---
-
+<!-- 
 ## 📈 GitHub stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
