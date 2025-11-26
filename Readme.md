@@ -59,14 +59,16 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 
 - **Trenddit** — Trenddit NLP social media trend analyser
   `🧾 Stack: Python, NLTK (VADER), Docker`
+  _([Link to Trenddit.](https://github.com/Alchemist-10/trenddit))_
 
 - **Nexus** — connecting people
   `🧾 Stack: React, next js, PostgreSQL, supabase ,Docker`
 
-_([Add links to each repository below when you publish them.](https://github.com/Alchemist-10/trenddit))_
+_([Link to Nexus.](https://github.com/Alchemist-10/nexus_submitted))_
 
 ---
-<!-- 
+
+<!--
 ## 📈 GitHub stats
 
 <p>
