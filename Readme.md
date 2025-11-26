@@ -37,7 +37,7 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tf,pytorch,sklearn,pandas,numpy,matplotlib,seaborn,jupyter,sql,postgres,mysql,js,nodejs,express,react,html,css,bootstrap,tailwind,docker,kubernetes,aws,git,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,jupyter,postgresql,mysql,js,nodejs,express,react,html,css,bootstrap,tailwind,docker,kubernetes,aws,git,github,linux,nginx" />
 </p>
 
 **Machine Learning & Data Science**
@@ -59,6 +59,7 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 
 - **Trenddit** — Trenddit NLP social media trend analyser
   `🧾 Stack: Python, NLTK (VADER), Docker`
+  <br>
   _([Link to Trenddit.](https://github.com/Alchemist-10/trenddit))_
 
 - **Nexus** — connecting people
