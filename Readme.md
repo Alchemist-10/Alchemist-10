@@ -23,8 +23,8 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 
 ### 📫 LeetCode & Contact
 
-- 🔗 LeetCode: [https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-- ✉️ Email: **[yourmail@example.com](mailto:yourmail@example.com)**
+- 🔗 LeetCode: [https://leetcode.com/u/Akshay_VS/](https://leetcode.com/u/Akshay_VS/)
+- ✉️ Email: **[akshaykailath2020@gmail.com](mailto:yourmail@example.com)**
 - 💬 LinkedIn / Twitter / Discord: add your links below
 
 ---
