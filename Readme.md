@@ -27,7 +27,7 @@ I focus on practical ML (data preprocessing, model building, deployment) while k
 - ✉️ Email: **[akshaykailath2020@gmail.com](mailto:akshaykailath2020@gmail.com)**
 - 💼 LinkedIn:
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/akshay-vs-84381131a/" target="_blank" rel="noopener noreferrer">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
   </p>
