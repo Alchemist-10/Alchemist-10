@@ -1,0 +1,3 @@
+# Profile design
+
+Approved direction: a black-and-white pixel portrait of Akshay with the Lotus Temple, compact professional introduction and contact links, concrete experience highlights, three featured builds, a grouped technology stack, a contribution city drawn from actual GitHub data, and links to six selected repositories. The approved hero must remain unchanged. Original source photographs and local credentials must never be committed. Assets are stored locally, with theme-aware city SVGs. The contribution renderer and workflow use public daily counts only and must not fabricate activity. No paid services or custom personal tokens are needed for automatic refresh. Native pins require GitHub's authenticated profile UI; README project links work independently.
