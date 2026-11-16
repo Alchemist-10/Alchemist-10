@@ -26,12 +26,12 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Alchemist-10/SamparkOutreach"><img src="assets/project-sampark.svg" alt="SamparkOutreach: CSV exports through validation to useful reports" width="100%" /></a>
-<h3>SamparkOutreach</h3>
-<p>Event and outreach reporting with validated CSV pipelines, duplicate protection, aggregate analytics, and privacy-aware exports.</p>
-<p><strong>22 tests · Windows/Linux CI · synthetic demo</strong></p>
-<p>Python · pandas · FastAPI · SQLite</p>
-<a href="https://github.com/Alchemist-10/SamparkOutreach">Explore the repository →</a>
+<a href="https://github.com/Alchemist-10/Telltale-DNS"><img src="assets/project-telltale.svg" alt="TellTale DNS: query filtering and multithreaded DNS resolution" width="100%" /></a>
+<h3>TellTale DNS</h3>
+<p>A multithreaded DNS resolver with caching, security filtering, tunneling detection, and audit logging.</p>
+<p><strong>~36K QPS in a local cache-hit benchmark · 23 end-to-end checks</strong></p>
+<p>C++17 · UDP sockets · Multithreading · Linux</p>
+<a href="https://github.com/Alchemist-10/Telltale-DNS">Explore the repository →</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Alchemist-10/turbformer"><img src="assets/project-turbformer.svg" alt="TurbFormer: data, a Swin Transformer, and model evaluation" width="100%" /></a>
@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top">
 <h3>Also on the workbench</h3>
-<p><a href="https://github.com/Alchemist-10/Telltale-DNS"><strong>TellTale DNS ↗</strong></a><br/>A multithreaded DNS resolver with caching, filtering, tunneling detection, and audit logging.<br/><sub>C++17 · UDP · Linux</sub></p>
+<p><a href="https://github.com/Alchemist-10/SamparkOutreach"><strong>SamparkOutreach ↗</strong></a><br/>Event and outreach reporting with validated CSV imports, aggregate analytics, privacy-aware exports, and 22 automated tests.<br/><sub>Python · pandas · FastAPI · SQLite</sub></p>
 <p><a href="https://github.com/Alchemist-10/XEngine"><strong>XEngine ↗</strong></a><br/>Concurrent document collection and search over 5K+ documents, with BM25 ranking and a Flask API.<br/><sub>C++ · Python · Retrieval</sub></p>
 <p><a href="https://github.com/Alchemist-10/SynkIndia"><strong>SyncIndia ↗</strong></a><br/>Audio/video preprocessing and lip-sync generation across three Indian languages.<br/><sub>PyTorch · OpenCV · FFmpeg</sub></p>
 </td>
