@@ -69,8 +69,6 @@
   <img src="assets/contribution-city-dark.svg" alt="An isometric city generated from my real GitHub contribution calendar. Each lot is a day and each building's height follows that day's contribution count." width="100%" />
 </picture>
 
-<sub>Actual contribution counts, not simulated activity. Updated weekly with GitHub Actions. <a href="data/contributions.json">View the data</a> · <a href="scripts/render_city.py">How it is drawn</a></sub>
-
 ---
 
 **Currently exploring:** dependable data workflows, multimodal ML, and backend performance.<br/>
