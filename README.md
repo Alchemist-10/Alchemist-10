@@ -9,8 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshay-vs-84381131a/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:akshaykailath2020@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://leetcode.com/u/Akshay_VS/">LeetCode</a>
+  <a href="mailto:akshaykailath2020@gmail.com">Email</a>
 </p>
 
 ---
