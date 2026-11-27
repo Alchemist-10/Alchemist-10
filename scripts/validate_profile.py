@@ -13,7 +13,17 @@ for svg in (root/'assets').glob('*.svg'):
     tree=ET.parse(svg)
     assert tree.getroot().tag.endswith('svg')
     assert '<script' not in svg.read_text().lower()
-for link in ['https://github.com/Alchemist-10/SamparkOutreach','https://github.com/Alchemist-10/turbformer','https://github.com/Alchemist-10/nexus_submitted','https://nexus-landing-alpha.vercel.app/','https://github.com/Alchemist-10/Telltale-DNS','https://github.com/Alchemist-10/XEngine','https://github.com/Alchemist-10/SynkIndia','https://www.linkedin.com/in/akshay-vs-84381131a/','mailto:akshaykailath2020@gmail.com']:
+required_links = [
+    'https://github.com/Alchemist-10/turbformer',
+    'https://github.com/Alchemist-10/nexus_submitted',
+    'https://nexus-landing-alpha.vercel.app/',
+    'https://github.com/Alchemist-10/Telltale-DNS',
+    'https://github.com/Alchemist-10/XEngine',
+    'https://github.com/Alchemist-10/SynkIndia',
+    'https://www.linkedin.com/in/akshay-vs-84381131a/',
+    'mailto:akshaykailath2020@gmail.com',
+]
+for link in required_links:
     assert link in text, f'Missing {link}'
 spec=importlib.util.spec_from_file_location('city',root/'scripts/render_city.py')
 module=importlib.util.module_from_spec(spec)
@@ -28,4 +38,4 @@ except ValueError:
     pass
 else:
     raise AssertionError('Corrupted totals were accepted')
-print('Profile assets and 9 required links validated; contribution counts agree.')
+print(f'Profile assets and {len(required_links)} required links validated; contribution counts agree.')

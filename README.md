@@ -45,7 +45,6 @@
 </td>
 <td width="50%" valign="top">
 <h3>Also on the workbench</h3>
-<p><a href="https://github.com/Alchemist-10/SamparkOutreach"><strong>SamparkOutreach ↗</strong></a><br/>Event and outreach reporting with validated CSV imports, aggregate analytics, privacy-aware exports, and 22 automated tests.<br/><sub>Python · pandas · FastAPI · SQLite</sub></p>
 <p><a href="https://github.com/Alchemist-10/XEngine"><strong>XEngine ↗</strong></a><br/>Concurrent document collection and search over 5K+ documents, with BM25 ranking and a Flask API.<br/><sub>C++ · Python · Retrieval</sub></p>
 <p><a href="https://github.com/Alchemist-10/SynkIndia"><strong>SyncIndia ↗</strong></a><br/>Audio/video preprocessing and lip-sync generation across three Indian languages.<br/><sub>PyTorch · OpenCV · FFmpeg</sub></p>
 </td>
